@@ -1,0 +1,32 @@
+.imgSlider{
+    width: 100%;
+    height: 100vh;
+    background-image: url("https://www.cambridgeinternational.org/Images/science-competition-home-banner%20%281%29.jpg");
+    background-size: 100% 100%;
+    animation: changeImage 20s linear infinite;
+}
+
+@keyframes changeImage {
+    0%{
+        background-image: url("https://www.cambridgeinternational.org/Images/science-competition-home-banner%20%281%29.jpg");
+    }
+    15%{
+        background-image: url("https://www.dpsvijayawada.org/images/bg-img.jpg");
+    }
+    30%{
+        background-image: url("https://dpsjodhpur.org/homeslider/sliderimg2.jpg");
+    }
+    45%{
+        background-image: url("https://www.dpssantoshnagar.in/assets/images/admission.jpg");
+    }
+    60%{
+        background-image: url("https://dpsgodhra.org/wp-content/uploads/2022/02/DPS-NEW-1.jpg");
+    }
+    75%{
+        background-image: url("https://www.cambridgeinternational.org/Images/Graduation-student-taking-a-selfie-photo.jpg");
+    }
+    90%{
+        background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVHtduKB_d5WSPk9T8_XMwLyg2OfYgz4wLaXu3jsx0GeBY7b1rpNZHuzdfislAseouY8c&usqp=CAU");
+    }
+
+}

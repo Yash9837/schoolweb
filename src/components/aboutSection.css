@@ -1,0 +1,21 @@
+.section{
+    margin: 4rem 6rem ;
+}
+
+.section h1{
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    text-align: left;
+    /* align-self:left; */
+        /* position: absolute; */
+        /* top: 55%;
+        left: 50%; */
+     /* transform: translate(-40%); */
+    /* right: 70%; */
+}
+
+.section p{
+    font-size: 1rem;
+    margin-bottom: 2rem;
+    text-align: left;
+}
