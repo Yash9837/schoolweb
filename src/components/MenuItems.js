@@ -1,31 +1,31 @@
 export const MenuItems = [
     {
         title : "Home",
-        url : "/dummy",
+        url : "/schoolweb",
         cName : "nav-links",
         icon : "fa-solid fa-house-user"
     },
     {
         title : "About",
-        url : "/dummy/about",
+        url : "/schoolweb/about",
         cName : "nav-links",
         icon : "fa-solid fa-circle-user"
     },
     {
         title : "Gallery",
-        url : "/dummy/gallery",
+        url : "/schoolweb/gallery",
         cName : "nav-links",
         icon : "fa-regular fa-image"
         
     },{
         title : "Contacts",
-        url : "/dummy/contacts",
+        url : "/schoolweb/contacts",
         cName : "nav-links",
         icon : "fa-solid fa-address-book"
     },
     {
         title : "Sign Up",
-        url : "/dummy/signup",
+        url : "/schoolweb/signup",
         cName : "nav-links-mobile",
     },
 ]
