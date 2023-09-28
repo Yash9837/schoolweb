@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/dummy/static/css/main.9eccbf34.css",
-    "main.js": "/dummy/static/js/main.d70922e6.js",
-    "static/js/787.ce689f02.chunk.js": "/dummy/static/js/787.ce689f02.chunk.js",
-    "static/media/group.jpg": "/dummy/static/media/group.f3bf587818d351ee7aad.jpg",
-    "static/media/motive2.jpg": "/dummy/static/media/motive2.0c81d4e72d153e731843.jpg",
-    "static/media/motive.jpg": "/dummy/static/media/motive.25540b39dad21ec31e8c.jpg",
-    "static/media/sports.jpg": "/dummy/static/media/sports.933474e313378e941ccc.jpg",
-    "index.html": "/dummy/index.html",
-    "main.9eccbf34.css.map": "/dummy/static/css/main.9eccbf34.css.map",
-    "main.d70922e6.js.map": "/dummy/static/js/main.d70922e6.js.map",
-    "787.ce689f02.chunk.js.map": "/dummy/static/js/787.ce689f02.chunk.js.map"
+    "main.css": "/schoolweb/static/css/main.9eccbf34.css",
+    "main.js": "/schoolweb/static/js/main.be9bb197.js",
+    "static/js/787.ce689f02.chunk.js": "/schoolweb/static/js/787.ce689f02.chunk.js",
+    "static/media/group.jpg": "/schoolweb/static/media/group.f3bf587818d351ee7aad.jpg",
+    "static/media/motive2.jpg": "/schoolweb/static/media/motive2.0c81d4e72d153e731843.jpg",
+    "static/media/motive.jpg": "/schoolweb/static/media/motive.25540b39dad21ec31e8c.jpg",
+    "static/media/sports.jpg": "/schoolweb/static/media/sports.933474e313378e941ccc.jpg",
+    "index.html": "/schoolweb/index.html",
+    "main.9eccbf34.css.map": "/schoolweb/static/css/main.9eccbf34.css.map",
+    "main.be9bb197.js.map": "/schoolweb/static/js/main.be9bb197.js.map",
+    "787.ce689f02.chunk.js.map": "/schoolweb/static/js/787.ce689f02.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9eccbf34.css",
-    "static/js/main.d70922e6.js"
+    "static/js/main.be9bb197.js"
   ]
 }
